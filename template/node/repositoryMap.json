@@ -1,3 +1,3 @@
 {
-  "fileMap" : ["README.md-default.md", "README.md-instructions.md"]
+  "fileMap" : ["README.md-default.md", "README.md-instructions.md", ".husky/post-merge-default.md"]
 }
