@@ -1,4 +1,4 @@
 {
   "templateVersion": "1.0.0",
-  "fileMap" : ["README.md-default.md", "README.md-instructions.md", ".husky/post-merge-default.md"]
+  "fileMap" : ["README.md-default.md", "README.md-instructions.md", ".husky/post-merge-default.md", ".husky/pre-commit-default.md"]
 }
