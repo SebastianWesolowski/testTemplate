@@ -1,0 +1,15 @@
+{
+  "name": "testtemplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generateRepositoryMap": "echo \"Error: no test specified\" && exit 1",
+    "test": "s-prepare-template --debug --projectCatalog='./template/node'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "s-update-manager": "^1.0.0-dev.22"
+  }
+}
