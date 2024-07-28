@@ -1,4 +1,4 @@
 {
   "templateVersion": "1.0.0",
-  "fileMap" : ["README.md-default.md", "README.md-instructions.md"]
+  "fileMap" : ["node.md-default.md", "node.md-instructions.md", "README.md-default.md", "README.md-instructions.md"]
 }
