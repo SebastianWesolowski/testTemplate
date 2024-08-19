@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "generateRepositoryMap": "echo \"Error: no test specified\" && exit 1",
-    "test": "s-prepare-template --debug --projectCatalog='./template/node'"
+    "test": "s-prepare-template --isDebug --projectCatalog='./template/node'"
   },
   "author": "",
   "license": "ISC",
