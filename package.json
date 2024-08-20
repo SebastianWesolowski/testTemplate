@@ -4,12 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "generateRepositoryMap": "echo \"Error: no test specified\" && exit 1",
-    "test": "s-prepare-template --isDebug --projectCatalog='./template/node'"
+    "generateRepositoryMap": "s-prepare-template --isDebug --projectCatalog='./template/node'"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "s-update-manager": "^1.0.0-dev.22"
+    "s-update-manager": "^1.0.0-dev.25"
   }
 }
