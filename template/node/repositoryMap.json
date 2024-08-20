@@ -1,0 +1,21 @@
+{
+  "templateVersion": "1.0.0",
+  "fileMap": [
+    "README.md",
+    "repositoryMap.json",
+    "repositoryMap.json.backup",
+    "tools/addDependency.js",
+    "tools/addModuleType.js",
+    "tools/upload.sh",
+    "tsconfig.json"
+  ],
+  "templateFileList": [
+    "./template/node/templateCatalog/README.md",
+    "./template/node/templateCatalog/repositoryMap.json",
+    "./template/node/templateCatalog/repositoryMap.json.backup",
+    "./template/node/templateCatalog/tools/addDependency.js",
+    "./template/node/templateCatalog/tools/addModuleType.js",
+    "./template/node/templateCatalog/tools/upload.sh",
+    "./template/node/templateCatalog/tsconfig.json"
+  ]
+}
