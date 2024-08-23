@@ -348,10 +348,10 @@ request@~2.85.0:
     tunnel-agent "^0.6.0"
     uuid "^3.1.0"
 
-s-update-manager@^1.0.0-dev.26:
-  version "1.0.0-dev.26"
-  resolved "https://registry.yarnpkg.com/s-update-manager/-/s-update-manager-1.0.0-dev.26.tgz#e6c09c28caea257bcb975b521c30e39617018634"
-  integrity sha512-6ZQkJXb0tLQiQ26nbQ8Fu926ZQBLbbe5LSV9G47tAEMRPKj7V8KjkbsEwq2R5OsJptfGh2cYcCepSdSLzBPpUA==
+s-update-manager@^1.0.0-dev.27:
+  version "1.0.0-dev.27"
+  resolved "https://registry.yarnpkg.com/s-update-manager/-/s-update-manager-1.0.0-dev.27.tgz#40b3f3f2d8dcdf525eb121ba4afc195c901cd62d"
+  integrity sha512-PLzbC9XfLWM0Pjm1u4EtAJnf3mx7QIOZNkp2UqH6K6dJTp9FdlG5nzFIbsd0M22uX6+681D2ezP/M52ZWH/zKA==
   dependencies:
     deepmerge "^4.3.1"
     dotenv "^16.4.5"
