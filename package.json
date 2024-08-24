@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "s-update-manager": "^1.0.0-dev.27"
+    "s-update-manager": "^1.0.0-dev.26"
   }
 }
